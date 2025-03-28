@@ -9,3 +9,6 @@ db.sqlite3-journal
 .vscode 
 static 
 media 
+node_modules/
+package-lock.json
+package.json
